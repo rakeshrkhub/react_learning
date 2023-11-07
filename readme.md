@@ -19,3 +19,12 @@ https://github.com/facebook/react/blob/main/packages/react/src/jsx/ReactJSXEleme
 3) In a UI, it's not necessary for every update to be applied immediately; in fact, doing so can be wasteful, causing frames to drop and degrading the user experience.
 4) Different types of updates have different priorities — an animation update needs to complete more quickly than, say, an update from a data store.
 5) A push-based approach requires the app (you, the programmer) to decide how to schedule work. A pull-based approach allows the framework (React) to be smart and make those decisions for you.
+
+
+04bgChanger is a background Chnager project:
+In which I have learned about onClick() method and Tailwind CSS
+
+
+
+https://github.com/rakeshrkhub/react_learning/assets/69245319/36efd3e0-3975-41f4-ac9f-266a3cd1b3cf
+
